@@ -9,7 +9,6 @@ https://www.dropbox.com/s/oi93nzdt5egfptm/CensorshipAR.apk?dl=0
 
 2. Print out the following image on an A4 sheet of paper:
 https://Hannah02.github.io/IXD502/censorship2.png
-
 <sub><sup>(you could display the image at 100% size on a screen also, I have just found it easier and more reliable to physically print out the target image)</sup></sub>
 
 3. Open the app and point it at the paper. A bit.ly link for the website and a password to grant access to the site will be revealed.
